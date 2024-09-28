@@ -37,3 +37,4 @@ class FlaskApp:
 if __name__ == "__main__":
     app = FlaskApp()
     app.run()
+    #This is my first detector test
